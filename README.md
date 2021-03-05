@@ -1,2 +1,2 @@
-# Ecommerce
-Shopping App
+# Barboza
+Barber shop app
